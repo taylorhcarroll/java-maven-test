@@ -1,6 +1,7 @@
 # java-maven-test
 ## Java environment instructions
 
+### Set up Enviornment
 Install visual studio
 https://code.visualstudio.com/download
 
@@ -34,6 +35,7 @@ Open visual studio and install Java Extension Pack
 
 Verify Java Language Support for Java(TM) by Red Hat is installed, Maven is installed, and Java Dependency Viewer.
 
+### Create A New Project
 While in Visual Studio do CMD+SHIFT+P type:
     Java: Create Java Project
 
