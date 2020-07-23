@@ -1,4 +1,4 @@
-package Java-Design-Patterns;
+package com.taylorhcarroll.javaDesignPatterns;
 
 /**
  * Hello world!

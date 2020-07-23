@@ -1,4 +1,4 @@
-package Java-Design-Patterns;
+package com.taylorhcarroll.javaDesignPatterns;
 
 import static org.junit.Assert.assertTrue;
 
