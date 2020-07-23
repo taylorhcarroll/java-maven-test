@@ -1,5 +1,8 @@
 # java-maven-test
 ## Java environment instructions
+I liked the way Visual Studio created C# projects that were plug and play
+And wanted a similar functionality with Java and visual studio code. Below 
+Is what I've come up with so far.
 
 ### Set up Enviornment
 Install visual studio
